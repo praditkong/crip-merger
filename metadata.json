@@ -1,0 +1,5 @@
+{
+  "name": "FolderClip Merger",
+  "description": "Automatically merge video clips from a local folder into a single sequential video file with smart format detection.",
+  "requestFramePermissions": []
+}
